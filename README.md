@@ -1,0 +1,1 @@
+If you're new to web security, it can be difficult to know where to begin. We recommend working through the topics available, completing the labs as you go, but don't be afraid to move on to the next topic if you get stuck. You can go back to the more challenging labs once you've developed your skills further. If you want more guided support, please see our learning paths. 
